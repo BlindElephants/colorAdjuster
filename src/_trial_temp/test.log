@@ -1,0 +1,2 @@
+2024-10-04 13:53:44-0400 [-] Log opened.
+2024-10-04 13:53:44-0400 [-] /home/jeremystewart/anaconda3/lib/python3.12/unittest/case.py:580: builtins.RuntimeWarning: TestResult has no addDuration method
